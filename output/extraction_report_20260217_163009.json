@@ -1,0 +1,20 @@
+{
+  "timestamp": "20260217_163009",
+  "files_processed": [
+    "trans.pdf"
+  ],
+  "statistics": {
+    "pdf_pages_text": 126,
+    "pdf_pages_with_images": 2,
+    "pdf_files_processed": 1,
+    "expressions_found": 3,
+    "words_accepted": 6658,
+    "uncertain_possible_proper_noun": 3813,
+    "duplicates_skipped": 7981,
+    "uncertain_abbreviation": 155,
+    "tokens_processed": 29803
+  },
+  "vocabulary_count": 6658,
+  "uncertain_count": 3968,
+  "expressions_count": 3
+}
